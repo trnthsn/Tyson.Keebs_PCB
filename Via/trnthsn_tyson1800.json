@@ -7,12 +7,7 @@
 		"cols": 9
 	},
 	"layouts": {
-		"labels": [
-			"Enter ISO",
-			"Split Left Shift",
-			"2U Plus",
-			"2U Enter"
-		],
+		"labels": ["Enter ISO", "Split Left Shift", "2U Plus", "2U Enter"],
 		"keymap": [
 			[
 				{
