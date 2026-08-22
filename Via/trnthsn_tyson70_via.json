@@ -2,24 +2,14 @@
 	"name": "Tyson70",
 	"vendorId": "0x5453",
 	"productId": "0x7437",
-	"menus": [
-		"qmk_rgblight"
-	],
-	"keycodes": [
-		"qmk_lighting"
-	],
+	"menus": ["qmk_rgblight"],
+	"keycodes": ["qmk_rgblight_keycodes"],
 	"matrix": {
 		"rows": 5,
 		"cols": 17
 	},
 	"layouts": {
-		"labels": [
-			"Split Backspace",
-			"2.75U Right Shift",
-			"Split Left Shift",
-			"Enter ISO",
-			"WKL"
-		],
+		"labels": ["Split Backspace", "2.75U Right Shift", "Split Left Shift", "Enter ISO", "WKL"],
 		"keymap": [
 			[
 				{

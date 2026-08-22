@@ -2,23 +2,14 @@
 	"name": "Tyson80",
 	"vendorId": "0x5453",
 	"productId": "0x6F30",
-	"menus": [
-		"qmk_rgblight"
-	],
-	"keycodes": [
-		"qmk_lighting"
-	],
+	"menus": ["qmk_rgblight"],
+	"keycodes": ["qmk_rgblight_keycodes"],
 	"matrix": {
 		"rows": 6,
 		"cols": 17
 	},
 	"layouts": {
-		"labels": [
-			"F13",
-			"Split Backspace",
-			"Split Right Shift",
-			"WKL"
-		],
+		"labels": ["F13", "Split Backspace", "Split Right Shift", "WKL"],
 		"keymap": [
 			[
 				{

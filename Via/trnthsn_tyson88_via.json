@@ -7,10 +7,7 @@
 		"cols": 17
 	},
 	"layouts": {
-		"labels": [
-			"Split Right Shift",
-			"WKL"
-		],
+		"labels": ["Split Right Shift", "WKL"],
 		"keymap": [
 			[
 				{

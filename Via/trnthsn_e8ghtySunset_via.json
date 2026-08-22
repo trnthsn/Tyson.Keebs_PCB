@@ -2,23 +2,14 @@
 	"name": "E8ghtySunset",
 	"vendorId": "0x5453",
 	"productId": "0x7565",
-	"menus": [
-		"qmk_rgblight"
-	],
-	"keycodes": [
-		"qmk_lighting"
-	],
+	"menus": ["qmk_rgblight"],
+	"keycodes": ["qmk_rgblight_keycodes"],
 	"matrix": {
 		"rows": 6,
 		"cols": 17
 	},
 	"layouts": {
-		"labels": [
-			"Split Backspace",
-			"Enter ISO",
-			"Split Left Shift",
-			"Split Right Shift"
-		],
+		"labels": ["Split Backspace", "Enter ISO", "Split Left Shift", "Split Right Shift"],
 		"keymap": [
 			[
 				{

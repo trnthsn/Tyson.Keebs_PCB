@@ -3,17 +3,13 @@
 	"vendorId": "0x5453",
 	"productId": "0x5336",
 	"menus": ["qmk_rgblight"],
-	"keycodes": ["qmk_lighting"],
+	"keycodes": ["qmk_rgblight_keycodes"],
 	"matrix": {
 		"rows": 5,
 		"cols": 14
 	},
 	"layouts": {
-		"labels": [
-			"Split Backspace",
-			["Right Shift", "Split", "Full", "Arrow"],
-			["Bottom Row", "Tsangan", "Arrow"]
-		],
+		"labels": ["Split Backspace", ["Right Shift", "Split", "Full", "Arrow"], ["Bottom Row", "Tsangan", "Arrow"]],
 		"keymap": [
 			[
 				{

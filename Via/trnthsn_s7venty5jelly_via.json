@@ -7,10 +7,7 @@
 		"cols": 15
 	},
 	"layouts": {
-		"labels": [
-			"Split Backspace",
-			"6.25U Spacebar"
-		],
+		"labels": ["Split Backspace", "6.25U Spacebar"],
 		"keymap": [
 			[
 				{

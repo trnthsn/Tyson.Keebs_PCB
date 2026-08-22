@@ -2,12 +2,8 @@
 	"name": "S6xty Rev.3",
 	"vendorId": "0x5453",
 	"productId": "0x3633",
-	"menus": [
-		"qmk_rgblight"
-	],
-	"keycodes": [
-		"qmk_lighting"
-	],
+	"menus": ["qmk_rgblight"],
+	"keycodes": ["qmk_rgblight_keycodes"],
 	"matrix": {
 		"rows": 5,
 		"cols": 14
@@ -17,19 +13,8 @@
 			"Split Backspace",
 			"Enter ISO",
 			"Split Left Shift",
-			[
-				"Right Shift",
-				"Split",
-				"Full",
-				"Arrow"
-			],
-			[
-				"Bottom Row",
-				"Tsangan",
-				"HHKB",
-				"WKL",
-				"Arrow"
-			]
+			["Right Shift", "Split", "Full", "Arrow"],
+			["Bottom Row", "Tsangan", "HHKB", "WKL", "Arrow"]
 		],
 		"keymap": [
 			[
